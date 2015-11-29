@@ -25,6 +25,18 @@
 // OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 // WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+#import <UIKit/UIKit.h>
+
+//! Project version number for RZDataBinding.
+FOUNDATION_EXPORT double RZDataBindingVersionNumber;
+
+//! Project version string for RZDataBinding.
+FOUNDATION_EXPORT const unsigned char RZDataBindingVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <RZDataBinding/PublicHeader.h>
+
+
+
 #import "RZDBMacros.h"
 #import "RZDBTransforms.h"
 #import "RZDBCoalesce.h"
