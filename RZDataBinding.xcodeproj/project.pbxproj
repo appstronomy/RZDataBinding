@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		4E8B01CB1C0AB38A0061571D /* RZDataBinding.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8B01CA1C0AB38A0061571D /* RZDataBinding.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4E8B01D91C0AB4080061571D /* NSObject+RZDataBinding.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8B01D21C0AB4080061571D /* NSObject+RZDataBinding.h */; };
+		4E8B01D91C0AB4080061571D /* NSObject+RZDataBinding.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8B01D21C0AB4080061571D /* NSObject+RZDataBinding.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4E8B01DA1C0AB4080061571D /* NSObject+RZDataBinding.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E8B01D31C0AB4080061571D /* NSObject+RZDataBinding.m */; };
-		4E8B01DB1C0AB4080061571D /* RZDBCoalesce.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8B01D41C0AB4080061571D /* RZDBCoalesce.h */; };
+		4E8B01DB1C0AB4080061571D /* RZDBCoalesce.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8B01D41C0AB4080061571D /* RZDBCoalesce.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4E8B01DC1C0AB4080061571D /* RZDBCoalesce.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E8B01D51C0AB4080061571D /* RZDBCoalesce.m */; };
-		4E8B01DD1C0AB4080061571D /* RZDBMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8B01D61C0AB4080061571D /* RZDBMacros.h */; };
-		4E8B01DE1C0AB4080061571D /* RZDBTransforms.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8B01D71C0AB4080061571D /* RZDBTransforms.h */; };
+		4E8B01DD1C0AB4080061571D /* RZDBMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8B01D61C0AB4080061571D /* RZDBMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4E8B01DE1C0AB4080061571D /* RZDBTransforms.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E8B01D71C0AB4080061571D /* RZDBTransforms.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4E8B01DF1C0AB4080061571D /* RZDBTransforms.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E8B01D81C0AB4080061571D /* RZDBTransforms.m */; };
 /* End PBXBuildFile section */
 
